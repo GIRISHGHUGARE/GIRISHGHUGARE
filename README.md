@@ -45,12 +45,8 @@
 ### 💼 Soft Skills  
 🏅 Leadership &nbsp; 🧠 Problem Solving &nbsp; 🔄 Adaptability &nbsp; 💪 Strong Work Ethic
 
----
-
-## 🧩 Projects & Achievements
-
+<!-- ## 🧩 Projects & Achievements -->
 <!-- You can add bullet points or GitHub repo links here once you provide your projects -->
-
 ---
 
 ## 📫 Let's Connect
@@ -63,7 +59,6 @@
 
 ## 📊 GitHub Stats
 
-![Girish's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GIRISHGHUGARE&theme=default)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GIRISHGHUGARE&layout=compact)  
 ![Girish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GIRISHGHUGARE&show_icons=true&theme=default)  
 ![Profile Views](https://komarev.com/ghpvc/?username=GIRISHGHUGARE&label=Profile%20views&color=0e75b6&style=flat)
